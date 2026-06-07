@@ -1,0 +1,15 @@
+{
+	"name": "adfpros",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9be46969-b149-492e-86f4-fea757de10bb",
+		"tenantId": "ff8ad887-4221-4255-8d89-df4771e73749"
+	}
+}
